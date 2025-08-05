@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Debatify]
+"Theme"="dark"
+"FirstRun"="false"
+"InstallPath"="C:\\Program Files\\Debatify"

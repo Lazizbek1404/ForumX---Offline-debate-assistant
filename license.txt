@@ -1,0 +1,12 @@
+Debatify License Agreement
+
+Copyright (c) 2025 soñador
+
+This software is licensed, not sold. By installing or using this software, you agree to the following terms:
+
+1. You may install and use this software for personal or educational use only.
+2. Redistribution or modification without written permission is prohibited.
+3. This software is provided "as-is" without warranties of any kind.
+4. The developers are not liable for any damage resulting from the use of this software.
+
+If you do not agree to these terms, do not install or use the software.
