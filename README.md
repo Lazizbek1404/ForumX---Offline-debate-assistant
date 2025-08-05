@@ -1,16 +1,30 @@
-# debatify
+# ForumX
 
-A new Flutter project.
+**ForumX** is an offline debate assistant app designed for students, clubs, and educators. It features a built-in timer, note-taking tools, and a judge scoring system to streamline both competitive and practice debates.
+
+## Features
+
+- ⏱️ Speech timer with visual indicators
+- 📝 Note-taking for arguments and rebuttals
+- 🧑‍⚖️ Judge scoring system for fair evaluations
+- 🎨 Light & dark theme support
+- 📱 Optimized for offline use
+
+## Screenshots
+
+*(Add screenshots here if you have them)*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Requirements
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (3.0 or higher)
+- Android Studio or VS Code with Flutter plugin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/YOUR-USERNAME/ForumX.git
+cd ForumX
+flutter pub get
+flutter run
